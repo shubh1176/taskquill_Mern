@@ -3,7 +3,7 @@ import React from 'react'
 export default function Projects() {
   return (
     <div>
-      projects
+      Nothing to see here
     </div>
   )
 }
